@@ -33,8 +33,9 @@ contributors-test/
     └── fun-fact.txt
 
 ```
-# 📄 Inside `fun-fact.txt`:
+## 📄 Inside `fun-fact.txt`:
 
+- > This is The Example:
 > I can code for 6 hours straight while drinking banana shakes!
 
 ---
