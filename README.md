@@ -35,7 +35,7 @@ contributors-test/
 ```
 ## 📄 Inside `fun-fact.txt`:
 
-- > This is The Example:
+ - > Example
 > I can code for 6 hours straight while drinking banana shakes!
 
 ---
