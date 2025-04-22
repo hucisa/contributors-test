@@ -1,0 +1,1 @@
+This course taught me how to effectively contribute to open source and use Git for version control. I learned about branching to manage different features, using diff --color-words to highlight changes, and referencing commits with SHA IDs. I also gained experience with pull requests, resolving merge conflicts, and understanding Git workflows.
