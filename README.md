@@ -33,12 +33,14 @@ contributors-test/
     └── fun-fact.txt
 
 ```
+
 ## 📄 Inside `fun-fact.txt`:
 
- - > Example
-> I can code for 6 hours straight while drinking banana shakes!
+- > Example
+  > I can code for 6 hours straight while drinking banana shakes!
 
 ---
+
 ## 💡 Bonus Challenge (Optional)
 
 Create a second file: `git-tutorial.md`  
@@ -54,4 +56,3 @@ Write what you have learned about contributing to open source and git.
 - Your commit message must be meaningful.
 
 Good luck, and welcome to open source 🚀
-
